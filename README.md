@@ -8,6 +8,7 @@ If user login credentials matched then the user gets to access the following fea
 2. Cash Deposit
 3. Cash Withdraw
 4. View Transaction
+
 And if login user not found then a popup appears as "User not found" and if the user inputs are invalid then popup appears stating invalid input.
 
 In the registration section, user duplication has been taken care of, i.e., no user can be registered with the same mobile number.
